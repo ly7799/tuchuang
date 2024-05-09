@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "901": {
+      "RegionID": 901,
+      "RegionCode": "ali-cd",
+      "RegionName": "Aliyun Chengdu",
+      "Nodes": [
+        {
+          "Name": "901a",
+          "RegionID": 901,
+          "DERPPort": 443,
+          "HostName": "47.109.28.136",
+          "IPv4": "47.109.28.136",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
