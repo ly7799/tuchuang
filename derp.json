@@ -10,7 +10,7 @@
           "RegionID": 901,
           "DERPPort": 12345,
           "STUNPort": 3478,
-          "HostName": "47.109.28.136",
+          "HostName": "kiprey-derp",
           "IPv4": "47.109.28.136",
           "InsecureForTests": true
         }
