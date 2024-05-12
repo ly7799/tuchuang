@@ -14,6 +14,22 @@
           "InsecureForTests": true
         }
       ]
+    },
+    "902": {
+      "RegionID": 902,
+      "RegionCode": "ten-gg",
+      "RegionName": "Tencent Guigu",
+      "Nodes": [
+        {
+          "Name": "902a",
+          "RegionID": 902,
+          "DERPPort": 443,
+          "STUNPort": 3478,
+          "HostName": "vpn.ly7799.com",
+          "IPv4": "43.153.81.231",
+          "InsecureForTests": true
+        }
+      ]
     }
   }
 }
