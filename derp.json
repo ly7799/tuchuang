@@ -25,9 +25,9 @@
           "RegionID": 902,
           "DERPPort": 443,
           "STUNPort": 3478,
+          "CanPort80": false,
           "HostName": "vpn.ly7799.com",
-          "IPv4": "43.153.81.231",
-          "InsecureForTests": true
+          "IPv4": "43.153.81.231"
         }
       ]
     }
